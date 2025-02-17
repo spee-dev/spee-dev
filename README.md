@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
 
-- 🌱 I’m currently learning **C++,DSA,SYSTEM DESIGN,Django,Flask,RestFul API Design,Generative AI**
+- 🌱 I’m currently learning **C++,DSA,SYSTEM DESIGN,Django,Flask,RestFul API Design,Generative AI,SPRING BOOT ,HIBERNET,MICROSERVICES,ADVANCE JAVA,DOCKER**
 
 - 📫 How to reach me **ankitravkumar@gmail.com**
 
