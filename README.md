@@ -2,13 +2,13 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
 
-- 🌱 I’m currently learning **C++,DSA,SYSTEM DESIGN,Django,Flask,RestFul API Design,Generative AI,SPRING BOOT ,HIBERNET,MICROSERVICES,ADVANCE JAVA,DOCKER**
+- 🌱 I’m currently learning **C++,DSA,SYSTEM DESIGN,Java Core ,RestFul API Design,Generative AI,SPRING BOOT ,HIBERNET,MICROSERVICES,ADVANCE JAVA,DOCKER**
 
 - 📫 How to reach me **ankitravkumar@gmail.com**
 
 <h3 align="left">Competetive Programming:</h3>
 <p align="left">
-<p>CodeChef: 5 Star (Rating:2067) <a href="https://www.codechef.com/users/dark_coder79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dark_coder79" height="30" width="40" /></a></p>
+<p>CodeChef: 5 Star (Rating:2067) <a href="https://www.codechef.com/users/dark_coder79" target="blank"></a></p>
 <p>HackerRank:Gold Badge(Problem Solving)<a href="https://www.hackerrank.com/ankitravkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitravkumar" height="30" width="40" /></a></p>
 <p>LeetCode: Knight (Max Rating:2023)<a href="https://www.leetcode.com/spee_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spee_dev" height="30" width="40" /></a></p>
 <p>GeeksForGeeks: 5 Star(Rating:- 2023 Top 2.3%)<a href="https://auth.geeksforgeeks.org/user/ankitravkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitravkumar" height="30" width="40" /></a></p>
